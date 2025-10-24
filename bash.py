@@ -28,8 +28,8 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}AWIMEDAN
-{}   FqM            MMMM    {}TELEGRAM      {}: {}https://t.me/AWIMEDAN
+   HZM            MMMM      {}Coded by {}: {}AWIMEDAN
+{}   FqM            MMMM    {}TELEGRAM {}: {}https://t.me/AWIMEDAN
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
