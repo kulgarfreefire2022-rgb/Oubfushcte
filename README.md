@@ -3,10 +3,10 @@
 
 pkg install nodejs
 
-npm install -g bash-obfuscate
+npm install -g bash-Oubfushcte
 
-git clone https://github.com/kulgarfreefire2022-rgb/obfuscate
+git clone https://github.com/kulgarfreefire2022-rgb/Oubfushcte
 
-cd obfuscate
+cd Oubfushcte
 
 python2 bash.py Or python1 bash.py
