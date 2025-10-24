@@ -21,7 +21,7 @@ eror = R + '[' + W + '!' + R + ']'
 banner = """
 {}         _nnnn_{}        _________________
 {}        dGGGGMMb{}      |                 |
-{}       @p~qp~~qMb{}   ._| {}Bash Oubfuscate {}|
+{}       @p~qp~~qMb{}   ._| {}Bash Oubfushcte {}|
 {}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
 {}       @,{}----.{}JM|{}_/
 {}      JS^{}\__/{}  qKL
@@ -73,7 +73,7 @@ def enkrip():
    try:
        script = raw_input(ask + W + "Script " + G + "> " + W)
        output = raw_input(ask + W + "Output " + G + "> " + W)
-       os.system("bash-obfuscate " + script + " -o " + output )
+       os.system("bash-Oubfushcte " + script + " -o " + output )
        print (sukses + "Done..")
    except KeyboardInterrupt:
        print (eror + " Stopped!")
